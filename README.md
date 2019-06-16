@@ -1,4 +1,3 @@
 # Billing
-Billing for Flipkart Application .....And we are testing...
-
+Billing for Flipkart Application
 
